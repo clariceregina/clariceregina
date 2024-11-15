@@ -20,3 +20,9 @@ Confira:
 ## Contato 📱
 
 Sinta-se à vontade para entrar em contato comigo pelo meu LinkedIn que está na bio.
+
+## 
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=clariceregina&layout=compact&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clariceregina&theme=radical&showicons=true&hide=stars,prs,issues,contribs)
