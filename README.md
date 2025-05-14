@@ -50,6 +50,8 @@ Por aqui você poderá conferir meus projetos, aproveite!
 
 ### Ferramentas no-code / low-code
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-5C4BFF?style=flat&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-black?logo=supabase&style=flat)
+
 
 ## 🌐 Idiomas
 * Inglês – Fluente
