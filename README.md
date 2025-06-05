@@ -61,9 +61,9 @@ Por aqui você poderá conferir meus projetos, aproveite!
 
 ## 📱 Contato
 
-Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/clariceregina/) e confira meus vídeos no [YouTube](https://www.youtube.com/@elasfalamtech)! 
+Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/clariceregina/), confira meus vídeos no [YouTube](https://www.youtube.com/@elasfalamtech) e dê uma olhadinha no meu [meu blog](https://dev.to/clariceregina)! 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clariceregina/)](https://www.linkedin.com/in/clariceregina/)  [![YouTube Channel](https://img.shields.io/badge/-Elas%20Falam%20Tech-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@elasfalamtech)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clariceregina/)](https://www.linkedin.com/in/clariceregina/)  [![YouTube Channel](https://img.shields.io/badge/-Elas%20Falam%20Tech-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@elasfalamtech) [![Dev.to Profile](https://img.shields.io/badge/-Blog-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/clariceregina)
 
 ## 📊 GitHub Stats
 
