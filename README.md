@@ -1,6 +1,6 @@
 ## 👋 Oiê, boas-vindas!  
 
-Me chamo **Clarice Regina**, sou estudante de **Sistemas de Informação**, apaixonada por **dados** e **tecnologia** no geral. 
+Me chamo **Clarice Regina**, sou estudante de **Sistemas de Informação**, apaixonada por solucionar problemas usando **tecnologias** no geral. 
 
 Por aqui você poderá conferir meus projetos, aproveite!
 
