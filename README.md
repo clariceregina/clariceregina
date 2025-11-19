@@ -1,8 +1,12 @@
 ## 👋 Oiê, boas-vindas!  
 
-Me chamo **Clarice Regina**, sou estudante de **Sistemas de Informação**, apaixonada por solucionar problemas usando **tecnologias** no geral. 
+Me chamo **Clarice Regina**, sou entusiasta de comunidades e do compartilhamento de conhecimento.
+
+Na tecnologia, encontrei minha paixão em desenvolvimento de software, criando soluções úteis para a sociedade com HTML, CSS, JavaScript, Bootstrap, Python e Java.
 
 Por aqui você poderá conferir meus projetos, aproveite!
+
+Sinta-se à vontade para mandar uma mensagem no [LinkedIn](https://www.linkedin.com/in/clariceregina/) 🤝
 
 ## 🛠️ Conhecimentos 
 
@@ -57,16 +61,16 @@ Por aqui você poderá conferir meus projetos, aproveite!
 ## 🌐 Idiomas
 * Inglês – Fluente
 * Espanhol – Intermediário
-* Italiano – Básico
 
 ## 📱 Contato
 
-Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/clariceregina/), confira meus vídeos no [YouTube](https://www.youtube.com/@elasfalamtech) e dê uma olhadinha no meu [meu blog](https://dev.to/clariceregina)! 
+Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/clariceregina/) e confira meus vídeos no [YouTube](https://www.youtube.com/@elasfalamtech).
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clariceregina/)](https://www.linkedin.com/in/clariceregina/)  [![YouTube Channel](https://img.shields.io/badge/-Elas%20Falam%20Tech-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@elasfalamtech) [![Dev.to Profile](https://img.shields.io/badge/-Blog-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/clariceregina)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clariceregina/)](https://www.linkedin.com/in/clariceregina/)  [![YouTube Channel](https://img.shields.io/badge/-Elas%20Falam%20Tech-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@elasfalamtech)
 
 ## 📊 GitHub Stats
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=clariceregina&layout=compact&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clariceregina&theme=radical&showicons=true&hide=stars,prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clariceregina&theme=radical&show_icons=true&include_all_commits=true)
+
