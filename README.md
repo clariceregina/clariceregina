@@ -57,7 +57,6 @@ Sinta-se à vontade para mandar uma mensagem no [LinkedIn](https://www.linkedin.
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-5C4BFF?style=flat&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-black?logo=supabase&style=flat)
 
-
 ## 🌐 Idiomas
 * Inglês – Fluente
 * Espanhol – Intermediário
@@ -67,10 +66,3 @@ Sinta-se à vontade para mandar uma mensagem no [LinkedIn](https://www.linkedin.
 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/clariceregina/) e confira meus vídeos no [YouTube](https://www.youtube.com/@elasfalamtech).
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clariceregina/)](https://www.linkedin.com/in/clariceregina/)  [![YouTube Channel](https://img.shields.io/badge/-Elas%20Falam%20Tech-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@elasfalamtech)
-
-## 📊 GitHub Stats
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=clariceregina&layout=compact&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clariceregina&theme=radical&show_icons=true&include_all_commits=true)
-
