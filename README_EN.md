@@ -1,3 +1,5 @@
+<p align="center"><a href="README.md">Versão em Português</a></p>
+
 ## 👋 Hi there, welcome!
 
 My name is **Clarice Regina**, and I’m an enthusiast of communities and knowledge sharing.
