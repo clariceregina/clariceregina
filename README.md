@@ -1,3 +1,5 @@
+<p align="center"><a href="README_EN.md">English version</a></p>
+
 ## 👋 Oiê, boas-vindas!  
 
 Me chamo **Clarice Regina**, sou entusiasta de comunidades e do compartilhamento de conhecimento.
