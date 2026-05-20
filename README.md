@@ -65,6 +65,4 @@ Sinta-se à vontade para mandar uma mensagem no [LinkedIn](https://www.linkedin.
 
 ## 📱 Contato
 
-Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/clariceregina/) e confira meus vídeos no [YouTube](https://www.youtube.com/@elasfalamtech).
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clariceregina/)](https://www.linkedin.com/in/clariceregina/)  [![YouTube Channel](https://img.shields.io/badge/-Elas%20Falam%20Tech-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@elasfalamtech)
+Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/clariceregina/) ou email (clariceregina.contato@gmail.com).
